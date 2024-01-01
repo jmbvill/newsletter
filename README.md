@@ -1,1 +1,1 @@
-# newsletter-assets
+# newsletter
